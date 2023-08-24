@@ -1,4 +1,4 @@
 const App = () => {
-  return <div>REDUX TOOLKIT</div>;
+  return <div>Redux Toolkit</div>;
 };
 export default App;
